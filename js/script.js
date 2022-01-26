@@ -1,3 +1,4 @@
 function pigLatin(input) {
-  return input;
+  const wordArray = input.split("");
+  return wordArray[0];
 }
