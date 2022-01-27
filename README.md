@@ -14,6 +14,9 @@ Test: "It will return true if the first letter is "a" and false if the first let
 Code: pigLatin("word");
 Expected Output: false 
 
+Test: "It will return true if its a vowel." 
+Code: pigLatin("oregon");
+Expected Output: true
 
 
 
