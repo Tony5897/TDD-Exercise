@@ -1,4 +1,12 @@
 function pigLatin(input) {
+
   const wordArray = input.split("");
-  return wordArray[0];
+
+  let firstLetter = wordArray[0];
+
+  if (firstLetter === "a") {
+  return true;
+  } else {
+  return false;
+}
 }
