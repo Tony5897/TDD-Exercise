@@ -18,5 +18,9 @@ Test: "It will return true if its a vowel."
 Code: pigLatin("oregon");
 Expected Output: true
 
+Test: "It will return either first rule, second rule or third rule to the console, depending on input word first letter."
+Code: pigLatin("oregon");
+Expected: "our code for the first rule"
+
 
 
